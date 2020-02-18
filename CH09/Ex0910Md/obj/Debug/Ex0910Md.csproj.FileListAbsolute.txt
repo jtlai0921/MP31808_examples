@@ -1,0 +1,6 @@
+D:\C#Lab\CH09\Ex0910Md\bin\Debug\Ex0910Md.exe.config
+D:\C#Lab\CH09\Ex0910Md\bin\Debug\Ex0910Md.exe
+D:\C#Lab\CH09\Ex0910Md\bin\Debug\Ex0910Md.pdb
+D:\C#Lab\CH09\Ex0910Md\obj\Debug\Ex0910Md.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH09\Ex0910Md\obj\Debug\Ex0910Md.exe
+D:\C#Lab\CH09\Ex0910Md\obj\Debug\Ex0910Md.pdb

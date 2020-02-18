@@ -1,0 +1,6 @@
+D:\C#Lab\CH09\Ex0910Ud\obj\Debug\Ex0910Ud.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH09\Ex0910Ud\bin\Debug\Ex0910Ud.exe.config
+D:\C#Lab\CH09\Ex0910Ud\bin\Debug\Ex0910Ud.exe
+D:\C#Lab\CH09\Ex0910Ud\bin\Debug\Ex0910Ud.pdb
+D:\C#Lab\CH09\Ex0910Ud\obj\Debug\Ex0910Ud.exe
+D:\C#Lab\CH09\Ex0910Ud\obj\Debug\Ex0910Ud.pdb

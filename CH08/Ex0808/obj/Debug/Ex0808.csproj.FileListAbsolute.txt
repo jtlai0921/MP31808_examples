@@ -1,0 +1,7 @@
+D:\C#Lab\CH08\Ex0808\bin\Debug\Ex0808.exe.config
+D:\C#Lab\CH08\Ex0808\bin\Debug\Ex0808.exe
+D:\C#Lab\CH08\Ex0808\bin\Debug\Ex0808.pdb
+D:\C#Lab\CH08\Ex0808\obj\Debug\Ex0808.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH08\Ex0808\obj\Debug\Ex0808.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH08\Ex0808\obj\Debug\Ex0808.exe
+D:\C#Lab\CH08\Ex0808\obj\Debug\Ex0808.pdb

@@ -1,0 +1,10 @@
+D:\C#Lab\CH14\Ex1407\bin\Debug\Ex1407.exe.config
+D:\C#Lab\CH14\Ex1407\bin\Debug\Ex1407.exe
+D:\C#Lab\CH14\Ex1407\bin\Debug\Ex1407.pdb
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.Form1.resources
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.Properties.Resources.resources
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.csproj.GenerateResource.cache
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.exe
+D:\C#Lab\CH14\Ex1407\obj\Debug\Ex1407.pdb

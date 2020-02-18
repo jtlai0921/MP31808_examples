@@ -1,0 +1,10 @@
+D:\C#Lab\CH12\Ex104\bin\Debug\Ex104.exe.config
+D:\C#Lab\CH12\Ex104\bin\Debug\Ex104.exe
+D:\C#Lab\CH12\Ex104\bin\Debug\Ex104.pdb
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.Form1.resources
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.Properties.Resources.resources
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.csproj.GenerateResource.cache
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.exe
+D:\C#Lab\CH12\Ex104\obj\Debug\Ex104.pdb

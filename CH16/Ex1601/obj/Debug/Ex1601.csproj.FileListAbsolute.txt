@@ -1,0 +1,12 @@
+D:\C#Lab\CH16\Ex1601\bin\Debug\School.accdb
+D:\C#Lab\CH16\Ex1601\bin\Debug\Ex1601.exe.config
+D:\C#Lab\CH16\Ex1601\bin\Debug\Ex1601.exe
+D:\C#Lab\CH16\Ex1601\bin\Debug\Ex1601.pdb
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.Form1.resources
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.Properties.Resources.resources
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.csproj.GenerateResource.cache
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.exe
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.pdb
+D:\C#Lab\CH16\Ex1601\obj\Debug\Ex1601.Subject.resources

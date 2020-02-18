@@ -1,0 +1,42 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Console;
+
+namespace Ex0714
+{
+   class Program
+   {
+      //值和參考參數之間的差異;Value and reference parameters
+      static void Main(string[] args)
+      {
+         int arg;
+
+         //Passing by value；arg的值在主程式中不做改變。
+         arg = 4;
+         squareVal(arg);
+         WriteLine($"Passing by value:   {arg}");   // Output: 4
+
+         // Passing by reference；The value of arg in Main is changed.
+         arg = 4;
+         squareRef(ref arg);
+         WriteLine($"Passing by reference: {arg}"); // Output: 16 
+         ReadKey();
+
+         
+      }
+      
+      static void squareVal(int valParameter)
+      {
+         valParameter *= valParameter;
+      }
+
+      // Passing by reference
+      static void squareRef(ref int refParameter)
+      {
+         refParameter *= refParameter;
+      }
+   }
+}

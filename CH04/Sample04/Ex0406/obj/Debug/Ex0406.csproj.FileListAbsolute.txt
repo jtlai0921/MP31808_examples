@@ -1,0 +1,7 @@
+D:\C#Lab\CH04\Sample04\Ex0406\bin\Debug\Ex0406.exe.config
+D:\C#Lab\CH04\Sample04\Ex0406\bin\Debug\Ex0406.exe
+D:\C#Lab\CH04\Sample04\Ex0406\bin\Debug\Ex0406.pdb
+D:\C#Lab\CH04\Sample04\Ex0406\obj\Debug\Ex0406.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH04\Sample04\Ex0406\obj\Debug\Ex0406.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH04\Sample04\Ex0406\obj\Debug\Ex0406.exe
+D:\C#Lab\CH04\Sample04\Ex0406\obj\Debug\Ex0406.pdb

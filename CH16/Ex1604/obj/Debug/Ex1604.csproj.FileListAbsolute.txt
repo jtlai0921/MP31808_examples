@@ -1,0 +1,10 @@
+D:\C#Lab\CH16\Ex1604\bin\Debug\Ex1604.exe.config
+D:\C#Lab\CH16\Ex1604\bin\Debug\Ex1604.exe
+D:\C#Lab\CH16\Ex1604\bin\Debug\Ex1604.pdb
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.Form1.resources
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.Properties.Resources.resources
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.csproj.GenerateResource.cache
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.exe
+D:\C#Lab\CH16\Ex1604\obj\Debug\Ex1604.pdb

@@ -1,0 +1,10 @@
+D:\C#Lab\CH13\Ex1306\bin\Debug\Ex1306.exe.config
+D:\C#Lab\CH13\Ex1306\bin\Debug\Ex1306.exe
+D:\C#Lab\CH13\Ex1306\bin\Debug\Ex1306.pdb
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.Form1.resources
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.Properties.Resources.resources
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.csproj.GenerateResource.cache
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.exe
+D:\C#Lab\CH13\Ex1306\obj\Debug\Ex1306.pdb

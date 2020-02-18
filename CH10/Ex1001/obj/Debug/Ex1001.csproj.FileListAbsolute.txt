@@ -1,0 +1,10 @@
+D:\C#Lab\CH10\Ex1001\bin\Debug\Ex1001.exe.config
+D:\C#Lab\CH10\Ex1001\bin\Debug\Ex1001.exe
+D:\C#Lab\CH10\Ex1001\bin\Debug\Ex1001.pdb
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.Form1.resources
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.Properties.Resources.resources
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.csproj.GenerateResource.cache
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.exe
+D:\C#Lab\CH10\Ex1001\obj\Debug\Ex1001.pdb

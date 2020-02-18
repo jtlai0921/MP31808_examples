@@ -1,0 +1,7 @@
+D:\C#Lab\CH03\Ex0309\bin\Debug\Ex0309.exe.config
+D:\C#Lab\CH03\Ex0309\bin\Debug\Ex0309.exe
+D:\C#Lab\CH03\Ex0309\bin\Debug\Ex0309.pdb
+D:\C#Lab\CH03\Ex0309\obj\Debug\Ex0309.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH03\Ex0309\obj\Debug\Ex0309.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH03\Ex0309\obj\Debug\Ex0309.exe
+D:\C#Lab\CH03\Ex0309\obj\Debug\Ex0309.pdb

@@ -1,0 +1,7 @@
+D:\C#Lab\CH07\E0702\bin\Debug\Ex0702.exe.config
+D:\C#Lab\CH07\E0702\bin\Debug\Ex0702.exe
+D:\C#Lab\CH07\E0702\bin\Debug\Ex0702.pdb
+D:\C#Lab\CH07\E0702\obj\Debug\Ex0702.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH07\E0702\obj\Debug\Ex0702.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH07\E0702\obj\Debug\Ex0702.exe
+D:\C#Lab\CH07\E0702\obj\Debug\Ex0702.pdb

@@ -1,0 +1,37 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using static System.Console;
+
+namespace Ex0714
+{
+   class Program
+   {
+      //local function
+      static void Main(string[] args)
+      {
+         string input = "100,200,300";
+         WriteLine($"Sum equal to {Sum(input)}");
+
+         ReadKey();         
+      }
+
+      static int Sum(string a)
+      {
+         string[] b = a.Split(new char[] { ',' });
+         return MyConvert(b);
+
+         int MyConvert(string[] c)
+         {
+            int result = 0;
+            foreach (string item in c)
+            {
+               result += Convert.ToInt32(item); ;
+            }
+            return result;
+         }
+      }
+   }
+}

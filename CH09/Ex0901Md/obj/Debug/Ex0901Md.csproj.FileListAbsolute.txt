@@ -1,0 +1,7 @@
+D:\C#Lab\CH09\Ex0901Md\bin\Debug\Ex0901Md.exe.config
+D:\C#Lab\CH09\Ex0901Md\bin\Debug\Ex0901Md.exe
+D:\C#Lab\CH09\Ex0901Md\bin\Debug\Ex0901Md.pdb
+D:\C#Lab\CH09\Ex0901Md\obj\Debug\Ex0901Md.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH09\Ex0901Md\obj\Debug\Ex0901Md.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH09\Ex0901Md\obj\Debug\Ex0901Md.exe
+D:\C#Lab\CH09\Ex0901Md\obj\Debug\Ex0901Md.pdb

@@ -1,0 +1,10 @@
+D:\C#Lab\CH12\Ex1203\bin\Debug\Ex1203.exe.config
+D:\C#Lab\CH12\Ex1203\bin\Debug\Ex1203.exe
+D:\C#Lab\CH12\Ex1203\bin\Debug\Ex1203.pdb
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.Form1.resources
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.Properties.Resources.resources
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.csproj.GenerateResource.cache
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.exe
+D:\C#Lab\CH12\Ex1203\obj\Debug\Ex1203.pdb

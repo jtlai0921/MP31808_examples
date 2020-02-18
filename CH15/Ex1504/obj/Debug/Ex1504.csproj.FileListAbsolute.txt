@@ -1,0 +1,10 @@
+D:\C#Lab\CH15\Ex1504\bin\Debug\Ex1504.exe.config
+D:\C#Lab\CH15\Ex1504\bin\Debug\Ex1504.exe
+D:\C#Lab\CH15\Ex1504\bin\Debug\Ex1504.pdb
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.csprojResolveAssemblyReference.cache
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.Form1.resources
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.Properties.Resources.resources
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.csproj.GenerateResource.cache
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.csproj.CoreCompileInputs.cache
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.exe
+D:\C#Lab\CH15\Ex1504\obj\Debug\Ex1504.pdb
